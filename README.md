@@ -5,3 +5,4 @@ Aprendi sobre os beneficios que as nuvens trás, como alta disponibilidade, conf
 Aprendi sobre a diferença dos tipos de Nuvem Saas, Paas e Iaas 
 Esutdos sobre criação de grupo de recurso indo em grupo de recursos> criar grupo selecionar a assitura(quando existe mais de uma) selecionar a região do grupo selecionar a tag do recurso para identificar o grupo de custo com grupo criado, uum pequena visão dos recusos que podem ser utilizados, como IAM, logs, foi criada  uma rede virtual pesquisando vnet e seguindo para criar
 Aprendendo na pratica a criação de VM, revisando todas as etapas do passo a passo da criação 
+Aprendizado, sobre storage account 
